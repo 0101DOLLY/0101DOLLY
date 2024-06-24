@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Dolly singh</h1>
------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
-</h1>
-
 
 <h1 align="center">Hi 👋, I'm DOLLY SINGH</h1>
 <h3 align="center">Data Analyst| Power Bi |Python| SQL |</h3>
